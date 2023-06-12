@@ -10,4 +10,4 @@ Start time: 2000
 
 Finish time: 2100
 
-Actual time needed to complete:60min f
+Actual time needed to complete:60min 
