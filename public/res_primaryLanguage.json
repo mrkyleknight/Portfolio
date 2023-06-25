@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Kyle Knight. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm Kyle Knight. As a former truck driver turned software developer, I bring a unique blend of real-world experience and a deep passion for video games. With a keen eye for detail and a drive to create immersive digital experiences, I harness my skills to craft innovative software solutions that bridge the gap between the virtual and the tangible, enhancing user engagement and delivering seamless journeys.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,27 +11,27 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
+        "title": "Hobby Generator",
         "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "description": "An application which helps people determine what Hobbies they can do. It helps people find what to do with their time and finds some form of fulfilment. It takes inputs from the user like indoor or outdoors, expenses for the hobby, and how active do they want the activity. Give all hobbies that fits their requirements and the full list of hobbies that we have on the second page.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/hobbygenerator1.png",
+          "images/portfolio/hobbygenerator2.png"
         ],
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        }
         ]
       },
       {
@@ -42,7 +42,7 @@
           "images/portfolio/photography/p1.jpg",
           "images/portfolio/photography/p2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/Secret-Laboratory-Org/hobby-generator",
         "technologies": [
           {
             "class": "devicon-react-original",
