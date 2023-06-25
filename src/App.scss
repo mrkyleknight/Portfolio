@@ -180,6 +180,7 @@ header h1 {
 	letter-spacing: 3px;
 	color: black;
 	text-align: center;
+	background-color:rgb(255, 205, 205)
 }
 
 .polaroid img {
@@ -188,7 +189,7 @@ header h1 {
 }
 
 .polaroid span {
-	background: #ffffff;
+	background: #e30d0d;
 	display: inline-block;
 	margin: 55px 75px 30px;
 	padding: 15px 15px 30px;
@@ -353,7 +354,9 @@ header h1 {
 }
 
 #portfolio {
-	background: #efe1bd;
+	background-image: url('../public/images/OIP.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
 	padding-bottom: 5%;
 }
 
